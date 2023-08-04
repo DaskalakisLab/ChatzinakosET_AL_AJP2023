@@ -1,2 +1,2 @@
-# DLPFC_genomics
+# DLPFC genomics of PTSD
 
